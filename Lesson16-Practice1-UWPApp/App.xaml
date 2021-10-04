@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="Lesson16_Practice1_UWPApp.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lesson16_Practice1_UWPApp">
+
+</Application>
